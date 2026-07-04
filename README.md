@@ -69,7 +69,7 @@ gym-website/
 
 ```bash
 # Clone the repo
-git clone https://github.com/Adarshraj-ai/gym-website.git
+git clone https://github.com/Adarshraj-ai/Gym-website.git
 
 # Open in browser — no build step needed
 cd gym-website
