@@ -94,7 +94,7 @@ open index.html
 **Adarsh Singh**
 📧 adarshmass111b@gmail.com
 🔗 [github.com/Adarshraj-ai](https://github.com/Adarshraj-ai)
-🔗 [linkedin.com/in/adarsh-singh-b87942325](https://www.linkedin.com/in/adarsh-singh-b87942325/)
+
 ---
 
 > ⭐ Star the repo if you liked the design!
